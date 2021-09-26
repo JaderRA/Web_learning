@@ -1,0 +1,11 @@
+body{
+	background-color: lightblue;
+}
+
+p {
+    font-size: 24px;
+    font-family: "brix-slab", "serif";
+    font-style: normal;
+    font-weight: 200;
+    color: rgb(95, 2, 31);
+}
